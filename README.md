@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=66B388&height=280&section=header&text=Welcome%20to%20HS%20GitHub&fontSize=65&animation=fadeIn&fontAlignY=38&desc=if%20(%20brain%20!=%20empty%20)%20{%20keepCoding();%20}%20else%20{%20orderCoffee();%20}&descAlignY=51&descAlign=62&fontColor=c7e9d6"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=66B388&height=280&section=header&text=Welcome%20to%20HS%20GitHub&fontSize=65&animation=fadeIn&fontAlignY=38&desc=if%20(%20brain%20!=%20empty%20)%20{%20keepCoding();%20}%20else%20{%20orderCoffee();%20}&descAlignY=51&descAlign=62&fontColor=ddeed7"/>
 </p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
