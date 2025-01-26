@@ -38,7 +38,7 @@
   <!-- MongoDB -->
   <img src="https://img.shields.io/badge/MongoDB-003458.svg?style=for-the-badge&logo=MongoDB&logoColor=47A248" />&nbsp
   <!-- Flask -->
-  <img src="https://img.shields.io/badge/Flask-white.svg?style=for-the-badge&logo=flask&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Flask-f8f8ff.svg?style=for-the-badge&logo=flask&logoColor=black" />&nbsp
   <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon web services&logoColor=ff8c00" />&nbsp
 </div>
