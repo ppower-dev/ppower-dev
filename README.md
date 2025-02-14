@@ -21,26 +21,10 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <!-- CSS3 -->
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <!-- TypeScript -->
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <!-- JQeury -->
-  <img src="https://img.shields.io/badge/JQuery-00498C.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp
-  <!-- Ajax -->
-  <img src="https://img.shields.io/badge/Ajax-007ACC.svg?style=for-the-badge&logo=Ajax&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <!-- MongoDB -->
-  <img src="https://img.shields.io/badge/MongoDB-003458.svg?style=for-the-badge&logo=MongoDB&logoColor=47A248" />&nbsp
-  <!-- Flask -->
-  <img src="https://img.shields.io/badge/Flask-f8f8ff.svg?style=for-the-badge&logo=flask&logoColor=black" />&nbsp
-  <!-- AWS -->
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon web services&logoColor=ff8c00" />&nbsp
 </div>
 
 <br>
@@ -50,6 +34,8 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <!-- React Query -->
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <!-- Next.js -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
 </div>
   
 <br>
