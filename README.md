@@ -35,6 +35,13 @@
 <br>
 <h3 align="center">📖 Will be Studying 📖</h3>
 <div align="center">
+  <!-- Django -->
+  <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
+  <!-- Vue.js -->
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=005666" />&nbsp
+</div>
+
+<div align="center">
   <!-- React -->
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <!-- React Query -->
