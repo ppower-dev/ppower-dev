@@ -28,13 +28,13 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <!-- TypeScript -->
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <!-- Django -->
+  <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
 </div>
 
 <br>
 <h3 align="center">📖 Will be Studying 📖</h3>
 <div align="center">
-  <!-- Django -->
-  <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
   <!-- Vue.js -->
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=005666" />&nbsp
 </div>
