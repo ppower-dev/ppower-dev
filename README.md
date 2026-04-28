@@ -13,7 +13,7 @@
 
 <ul>
   <li>
-    <b>Codevision</b> (2026.04 - Present)
+    <b>CODEVISION</b> (2026.04 - Present)
     <br><i>Research Engineer, Web</i>
   </li>
 </ul>
